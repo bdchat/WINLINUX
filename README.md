@@ -1,5 +1,5 @@
-# WINLINUXDEV
-Development edition of WINLINUX
+# WINLINUX
+Early edition of WINLINUX
 
 BIRTHDAY: Oct 22, 2015
 
