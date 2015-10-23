@@ -1,6 +1,7 @@
 # WINLINUXDEV
 Development edition of WINLINUX
-WHEN: Oct 22, 2015
+
+BIRTHDAY: Oct 22, 2015
 
 WHAT: A totally new type of Linux Distro for Windows users who are afraid to touch Linux.
 
